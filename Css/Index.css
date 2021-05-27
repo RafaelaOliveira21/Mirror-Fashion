@@ -154,11 +154,24 @@ footer .container {
 
 .social {
    position: absolute;
-   top: 12px;
+   top: 20px;
    right: 0;
+   align-items: right;
 }
 
 .social li {
    float: left;
    margin-left: 25px;
+}
+
+.busca button {
+   /* Adicionando imagem */
+   background-image: url(/mirrorfashion/img/busca.png);
+   background-repeat: no-repeat;
+   border: none;
+   /* Tamanho da imagem */
+   width: 20px;
+   height: 20px;
+   /* Image replacement */
+   text-indent: -9999px;
 }

@@ -121,5 +121,44 @@ header {
    text-decoration: none;
 }
 
+footer {
+   background-image: url(/mirrorfashion/img/fundo-rodape.png);
+   clear: both;
+   padding: 20px 0;
+}
 
+.social a {
+   /* Tamanho da imagem */
+   height: 32px;
+   width: 32px;
+   /* Image replacement */
+   display: block;
+   text-indent: -9999px;
+}
 
+.social a[href*="facebook.com"] {
+   background-image: url(/mirrorfashion/img/facebook.png);
+}
+
+.social a[href*="twitter.com"] {
+   background-image: url(/mirrorfashion/img/twitter.png);
+}
+
+.social a[href*="plus.google.com"] {
+   background-image: url(/mirrorfashion/img/googleplus.png);
+}
+
+footer .container {
+   position: relative;
+}
+
+.social {
+   position: absolute;
+   top: 12px;
+   right: 0;
+}
+
+.social li {
+   float: left;
+   margin-left: 25px;
+}

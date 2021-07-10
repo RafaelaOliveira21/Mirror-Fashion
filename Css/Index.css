@@ -6,7 +6,7 @@
 }
 
 .sacola {
-   background-image: url(/mirrorfashion/img/sacola.png);
+   background-image: url(../mirrorfashion/img/sacola.png);
    background-repeat: no-repeat;
    background-position: top right;
    font-size: 14px;
@@ -150,7 +150,7 @@ header {
 }
 
 footer {
-   background-image: url(/mirrorfashion/img/fundo-rodape.png);
+   background-image: url(../mirrorfashion/img/fundo-rodape.png);
    clear: both;
    padding: 20px 0;
 }
@@ -165,15 +165,15 @@ footer {
 }
 
 .social a[href*="facebook.com"] {
-   background-image: url(/mirrorfashion/img/facebook.png);
+   background-image: url(../mirrorfashion/img/facebook.png);
 }
 
 .social a[href*="twitter.com"] {
-   background-image: url(/mirrorfashion/img/twitter.png);
+   background-image: url(../mirrorfashion/img/twitter.png);
 }
 
 .social a[href*="plus.google.com"] {
-   background-image: url(/mirrorfashion/img/googleplus.png);
+   background-image: url(../mirrorfashion/img/googleplus.png);
 }
 
 footer .container {
@@ -194,7 +194,7 @@ footer .container {
 
 .busca button {
    /* Adicionando imagem */
-   background-image: url(/mirrorfashion/img/busca.png);
+   background-image: url(../mirrorfashion/img/busca.png);
    background-repeat: no-repeat;
    border: none;
    /* Tamanho da imagem */

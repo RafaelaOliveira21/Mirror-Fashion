@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    background-image: url(/img/sobre-background.jpg);
+    background-image: url(../mirrorfashion/img/sobre-background.jpg);
     padding: 10px;
 }
 
@@ -46,7 +46,7 @@ p {
 }
 
 footer {
-    background-image: url(/mirrorfashion/img/fundo-rodape.png);
+    background-image: url(../mirrorfashion/img/fundo-rodape.png);
     clear: both;
     padding: 20px 0;
  }
@@ -61,15 +61,15 @@ footer {
  }
  
  .social a[href*="facebook.com"] {
-    background-image: url(/mirrorfashion/img/facebook.png);
+    background-image: url(../mirrorfashion/img/facebook.png);
  }
  
  .social a[href*="twitter.com"] {
-    background-image: url(/mirrorfashion/img/twitter.png);
+    background-image: url(../mirrorfashion/img/twitter.png);
  }
  
  .social a[href*="plus.google.com"] {
-    background-image: url(/mirrorfashion/img/googleplus.png);
+    background-image: url(../mirrorfashion/img/googleplus.png);
  }
  
  footer .container {
